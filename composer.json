@@ -1,0 +1,22 @@
+{
+    "name": "dupot/test-article-lm-submitpackage",
+    "description": "test submit package",
+    "license": "LGPL-3.0-only",
+    "type": "library",
+    "homepage": "https://www.dupot.org",
+    "autoload": {
+        "psr-4": {
+            "Dupot\\MyNamespace\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Bertocchi",
+            "email": "imikado@gmail.com",
+            "homepage": "https://www.dupot.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
